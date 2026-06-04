@@ -1,0 +1,31 @@
+# ─── Streamlit App ────────────────────────────────────────
+streamlit==1.35.0
+plotly==5.22.0
+
+# ─── Web Framework (optional REST API) ──────────────────
+flask==3.0.3
+flask-cors==4.0.1
+
+# ─── Database ─────────────────────────────────────────────
+mysql-connector-python==8.3.0
+
+# ─── Machine Learning ─────────────────────────────────────
+xgboost==2.0.3
+scikit-learn>=1.5.2
+pandas==2.2.2
+numpy==1.26.4
+joblib==1.4.2
+
+# ─── AI / Gemini ──────────────────────────────────────────
+google-generativeai==0.7.2
+
+# ─── PDF & Image Processing ───────────────────────────────
+reportlab==4.2.0
+PyMuPDF==1.24.5
+Pillow==10.3.0
+pytesseract==0.3.10
+opencv-python-headless==4.9.0.80
+
+# ─── Utilities ────────────────────────────────────────────
+python-dotenv==1.0.1
+requests==2.32.3
